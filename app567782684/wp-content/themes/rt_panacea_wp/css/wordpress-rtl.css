@@ -1,0 +1,78 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+
+/* Article */
+body.rtl .rt-wordpress ol {margin-left: 0;margin-right: 5px;}
+body.rtl #more-articles span {float: none;margin-right: 0;margin-left: 15px;}
+body.rtl #more-articles.spinner {background-position: 5px 50%;background-repeat: no-repeat;}
+
+/* Article Details Layout 1 */
+body.rtl .details-layout1 .rt-wordpress .rt-articleinfo {float: left;text-align: left;margin: 0 15px 15px 0;padding-right: 0;padding-left: 10px;border-left-style: solid;border-right: none;}
+body.rtl .details-layout1 .rt-article-icons {float: left;}
+
+/* Article Details Layout 2 */
+body.rtl .details-layout2 .rt-articleinfo-text {float: right;}
+body.rtl .details-layout2 .rt-wordpress .rt-articleinfo {text-align: right;padding-right: 0;padding-left: 10px;}
+
+/* Article Details Layout 3 */
+body.rtl .details-layout3 .rt-infobutton {float: left;margin-left: 0;margin-right: 15px;z-index:2;}
+
+/* Column Layout */
+body.rtl .rt-wordpress .float-left {float: right;margin-left: 0;margin-right: 15px;}
+body.rtl .rt-wordpress .first.float-left, body.rtl .rt-wordpress .float-left.width100 {margin-left: inherit;margin-right: 0;}
+body.rtl .rt-wordpress .float-right {float: left;}
+
+/* Typography */
+body.rtl .rt-wordpress .rt-article-icons {padding: 5px 4px 0 5px;}
+body.rtl .rt-wordpress .icon {float: right;}
+body.rtl .rt-wordpress .edit {margin-right: inherit;margin-left: 0;}
+body.rtl #form-login ul li a, body.rtl #com-form-login ul li a, body.rtl ul.rt-more-articles li a, body.rtl .rt-section-list ul li a, body.rtl ul.mostread li a, body.rtl ul.latestnews li a, body.rtl .weblinks ul li a {padding-left: 0;padding-right: 15px;}
+body.rtl .rt-pollbuttons .readon {float: right !important;}
+body.rtl .readonstyle-link .module-content .rt-poll .readon {float: right !important;margin-right: 0;margin-left: 20px;}
+body.rtl .rt-pollrow {direction: ltr;text-align: right;}
+body.rtl .rt-comment-block {float: left;}
+body.rtl .rt-wordpress .search_result fieldset.word label {float: right;}
+body.rtl .rt-wordpress .label-left {float: right;}
+body.rtl .rt-date-posted span {line-height: 24px;}
+body.rtl .rt-wordpress .contact .image {float:left;}
+body.rtl .rt-wordpress .search_result select#ordering.inputbox {margin-right: 0;margin-left: 10px;}
+body.rtl pre {direction: ltr;text-align: right;}
+body.rtl ul.pagination {text-align: right;}
+body.rtl ul.pagination li {text-align: right;}
+body.rtl .rt-wordpress .search_result select#ordering.inputbox {margin-right: 0;margin-left: 10px;}
+body.rtl #rt-main-surround ul, body.rtl #rt-main-surround ol {padding-left: 0;padding-right: 25px;}
+
+/* RokAjaxSearch */
+body.rtl .rokajaxsearch {direction: ltr;text-align: right;}
+body.rtl .rokajaxsearch .inputbox {text-align: right;}
+body.rtl #roksearch_results {direction: ltr;text-align: right;}
+body.rtl #rokajaxsearch .roksearch-wrapper {float: right;}
+body.rtl .search_options {float: right;}
+body.rtl .search_options label {margin-left:8px;margin-right: 0 !important;}
+body.rtl #rokajaxsearch #roksearch_search_str {background-position: 5px -79px !important;}
+body.rtl #rokajaxsearch #roksearch_search_str.loading {background-position: 5px -79px !important;}
+body.rtl #roksearch_results a#roksearch_link {float: left;padding-right: 0;margin-left: 5px;}
+body.rtl #roksearch_results .container-arrows {float: right;margin-right: 0;margin-left: 5px;}
+body.rtl #roksearch_results a.viewall {float: right;}
+body.rtl #roksearch_results span.small {direction: rtl;}
+
+/* RokStories */
+body.rtl .feature-block .readon-main .readon1-r {padding: 0 54px 0 6px;}
+
+/* RokTabs */
+body.rtl .roktabs-wrapper {direction: ltr;text-align: right;}
+body.rtl .roktabs-wrapper .roktabs-links ul li {float: right;}
+body.rtl .roktabs-wrapper .tab-icon {margin-right: 0;margin-left: 8px;float: right;margin-top: 0px;}
+
+/* Rok Quick Cart */
+body.rtl .readonstyle-button .cart_product_add .item_add, body.rtl .readonstyle-button .cart_product_add .item_add:link, .readonstyle-button .cart_product_add .item_add:visited, body.rtl .readonstyle-button .simpleCart_checkout, body.rtl .readonstyle-button  .simpleCart_empty, body.rtl .readonstyle-button .simpleCart_checkout:hover, body.rtl .simpleCart_empty:hover, body.rtl .readonstyle-button .simpleCart_checkout:visited, body.rtl .readonstyle-button .simpleCart_empty:visited, body.rtl .readonstyle-button .simpleCart_checkout:link, body.rtl .readonstyle-button .simpleCart_empty:link {background:url("../images/body/light/rtl/readon-r.png") no-repeat;}
+
+/* Editing */
+body.rtl .button2-left, body.rtl .button2-right, body.rtl .button2-left div, body.rtl .button2-right div {float: right;}
+body.rtl #editor-xtd-buttons {float: right;}
+body.rtl .edit-article fieldset table {float: right;}
+body.rtl .rt-wordpress .save .readon {margin-left: 0;margin-right: 30px;}

@@ -1,0 +1,139 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+ 
+/* General */
+
+.rt-wordpress .rt-article ol {margin-left: 20px;}
+
+/* Pagination */
+
+div.pagination {padding: 0 0 15px; margin-top: 5px;}
+div.rt-pagination {margin-bottom: 10px;}
+div.rt-page .rt-pagination a, div.rt-post .rt-pagination a {font-size: 130%; font-weight: bold;}
+div.rt-page #comments .rt-pagination a, div.rt-post #comments .rt-pagination a {font-size: 100%; font-weight: normal;}
+
+/* Page & Single */
+
+div.edit-entry {margin: 10px 0;}
+
+/* Single */
+
+.rt-post .rt-post-footer small {font-size: 90%; line-height: 130%;}
+.rt-post .rt-post-footer {margin: 0 0 15px 0;}
+
+.rt-post .rt-tags {overflow:hidden; display: block; padding: 8px 15px 10px; margin: 10px 0; border-radius: 3px; border: 1px solid;}
+.rt-post .rt-tags span {font-style: italic;}
+
+/* Search */
+
+.search-excerpt {background: #FBDE21;}
+
+/* Recent Comments Widget */
+
+.body-overlay-light .widget_gantry_recentcomments ul.comments li {background:url(../images/comments/light/speach-bubble.png) 100% 0 no-repeat;}
+.body-overlay-dark .widget_gantry_recentcomments ul.comments li {background:url(../images/comments/dark/speach-bubble.png) 100% 0 no-repeat;}
+.widget_gantry_recentcomments ul.comments li img {padding: 5px;margin-bottom: 15px;border: 1px dotted #aaa; background: none;}
+
+/* Comments Title */
+
+.rt-wordpress #jc .rt-pagetitle {margin: 15px 0 15px;}
+
+/* Comments Standard */
+
+#comments.comments-standard .comments-list .depth-2 .rok-comment-entry {margin-left: 5%;}
+#comments.comments-standard .comments-list .depth-3 .rok-comment-entry {margin-left: 10%;}
+#comments.comments-standard .comments-list .depth-4 .rok-comment-entry {margin-left: 15%;}
+#comments.comments-standard .comments-list .depth-5 .rok-comment-entry {margin-left: 20%;}
+#comments.comments-standard .comments-list .depth-6 .rok-comment-entry {margin-left: 25%;}
+#comments.comments-standard .comments-list .depth-7 .rok-comment-entry {margin-left: 30%;}
+#comments.comments-standard .comments-list .depth-8 .rok-comment-entry {margin-left: 35%;}
+#comments.comments-standard .comments-list .depth-9 .rok-comment-entry {margin-left: 40%;}
+
+#comments.comments-standard {margin: 0;padding: 0;width: 100%;text-align: left;text-decoration: none;text-transform: none;text-indent: 0}
+#comments.comments-standard .clear {clear: both; height: 1px; overflow: hidden}
+#comments.comments-standard #respond {margin: 0 10px; padding-bottom: 10px;}
+
+#comments.comments-standard .rbox_tr, #comments.comments-standard .rbox_tl, #comments.comments-standard .rbox_t {background:none;border:0px;}
+#comments.comments-standard .rbox_br, #comments.comments-standard .rbox_bl, #comments.comments-standard .rbox_b {background:none;border:0px;}
+#comments.comments-standard .rbox_m  {background:none;border:0px;}
+#comments-form label, #comments-report-form label  {padding-left:15px;}
+#comments.comments-standard .rbox div {line-height:140%;}
+#comments.comments-standard .rbox {border:0px;}
+
+#comments.comments-standard .comment-box {margin: 0;padding: 0;}
+
+#comments.comments-standard .comment-avatar {float: left;margin: 0;padding: 0}
+#comments.comments-standard .avatar-indent {padding-left: 40px}
+
+#comments.comments-standard .comments-list {margin-left:0px !important;}
+
+#comments.comments-standard .comment-anchor {text-decoration: none; border: none}
+#comments.comments-standard .comment-author, #comments .author-homepage {font-weight:bold;margin: 0;padding: 0}
+
+#comments.comments-standard .comment-date {font-size: 10px;margin: 0;padding: 0 0 0 12px;background: url(../images/comments/jc_date.gif) no-repeat center left}
+#comments.comments-standard a[rel*=external] {background: url(../images/comments/jc_link.gif) no-repeat center right;padding: 0 10px 0 0;margin: 0 2px}
+
+#comments.comments-standard .comment-body img {padding: 0; border: 0 none}
+#comments.comments-standard .comment-body .img {padding: 4px 0 !important; max-width: 500px}
+
+#comments.comments-standard .comments-list {height: 1%}
+#comments.comments-standard .comments-list .comments-list {margin-left:20px;}
+
+#comments.comments-standard .rok-comment-entry {padding: 10px; color: #777;}
+#comments.comments-standard .even, #comments.comments-standard .odd {background-image: none;border: none; margin-left: 0;margin-bottom: 10px;padding: 0}
+
+#comments.comments-standard .quote, #comments.comments-standard blockquote, #comments.comments-standard .code, #comments.comments-standard code, #comments.comments-standard pre {margin: 0; display: block; background-image: none;}
+#comments.comments-standard blockquote, #comments.comments-standard .hidden, #comments.comments-standard code, #comments.comments-standard pre {text-align: left;padding: 8px;margin-bottom: 8px}
+#comments.comments-standard blockquote, #comments.comments-standard .hidden {font-size:110%;}
+#comments.comments-standard code, #comments.comments-standard pre {overflow: hidden;white-space:normal;border: 1px solid;}
+#comments.comments-standard .code {background: none; border: none; padding:0}
+#comments.comments-standard .hidden {clear: both;display: block;margin: 5px 0}
+
+body.rtl #comments.comments-standard .comment-box {text-align: right;}
+body.rtl #comments.comments-standard .avatar-indent {padding-right: 40px}
+body.rtl #comments.comments-standard .comment-avatar {float: right;}
+
+body.rtl #comments.comments-standard code, body.rtl #comments.comments-standard pre {text-align: right;}
+
+body.rtl #comments.comments-standard .comments-list .depth-2 .rok-comment-entry {margin-right: 5%; margin-left: 0;}
+body.rtl #comments.comments-standard .comments-list .depth-3 .rok-comment-entry {margin-right: 10%; margin-left: 0;}
+body.rtl #comments.comments-standard .comments-list .depth-4 .rok-comment-entry {margin-right: 15%; margin-left: 0;}
+body.rtl #comments.comments-standard .comments-list .depth-5 .rok-comment-entry {margin-right: 20%; margin-left: 0;}
+body.rtl #comments.comments-standard .comments-list .depth-6 .rok-comment-entry {margin-right: 25%; margin-left: 0;}
+body.rtl #comments.comments-standard .comments-list .depth-7 .rok-comment-entry {margin-right: 30%; margin-left: 0;}
+body.rtl #comments.comments-standard .comments-list .depth-8 .rok-comment-entry {margin-right: 35%; margin-left: 0;}
+body.rtl #comments.comments-standard .comments-list .depth-9 .rok-comment-entry {margin-right: 40%; margin-left: 0;}
+
+/* Comments Basic */
+
+#comments.comments-basic ol.commentlist {list-style-type: none; padding: 10px 10px 5px; overflow: hidden; margin: 0;}
+#comments.comments-basic ol.commentlist div.comment-div-wrapper {margin-bottom: 10px; padding: 0 0 10px;}
+
+#comments.comments-basic ol.commentlist li {margin: 0 0 5px;}
+
+#comments.comments-basic ol.commentlist .comment-author {overflow: hidden; margin-bottom: 10px;}
+#comments.comments-basic ol.commentlist .comment_gravatar_wrapper {float: left;}
+#comments.comments-basic ol.commentlist .comment-meta {background: none;}
+#comments.comments-basic ol.commentlist .comment-meta .fn {margin-left: 10px; margin-right: 10px; float: left; font-weight: bold;}
+#comments.comments-basic ol.commentlist .comment-meta .comment-meta-time a {line-height: inherit; text-decoration: none;}
+#comments.comments-basic ol.children {list-style-type: none; overflow: hidden; padding-right: 0;}
+#comments.comments-basic ol.commentlist code, ol.commentlist pre {overflow: hidden;white-space:normal; padding: 5px;}
+
+body.rtl #comments.comments-basic ol.commentlist .comment_gravatar_wrapper, body.rtl #comments.comments-basic ol.commentlist .comment-meta .fn {float: right;}
+body.rtl #comments.comments-basic ol.children {margin-right: 15px;}
+
+/* Write Comment */
+
+#jc #comments #respond input, #jc #comments #respond textarea {border: 1px solid;}
+
+#comments-form {margin: 15px 0 0;}
+#comments-form textarea {font-family:Helvetica,Arial,sans-serif; font-size:13px; height:120px; margin:0; padding:5px; width:97%;}
+#comments-form #author, #comments-form #email, #comments-form #url {padding: 7px 5px; width:97%; font-family:Helvetica,Arial,sans-serif; font-size:13px;}
+#comments-form #comments-form-send button.readon {border: none; padding: 0; cursor: pointer;}
+#comments-form #comments-form-send button.readon span {margin-top: -1px; margin-left: -6px;}
+
+body.rtl #respond {text-align: right;}

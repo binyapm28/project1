@@ -1,0 +1,16 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+ 
+/* Core */
+body {text-rendering: optimizeSpeed;}
+h1, h2, h3, h4, h5 {text-rendering: optimizeLegibility;}
+
+/* Module Variations */
+.box1 .rt-block, .box2 .rt-block, .box3 .rt-block, .roktabs-wrapper .active-arrows, .title3 .module-title-surround, .title4 .module-title-surround, .title5 .module-title-surround, #more-articles, .title1 .module-title-surround, .title2 .module-title-surround, .box1 .rt-article-bg, .box2 .rt-article-bg, .box3 .rt-article-bg {-webkit-border-radius: 3px;}
+
+/* Transitions */
+a {-webkit-transition: color .3s ease-out;}

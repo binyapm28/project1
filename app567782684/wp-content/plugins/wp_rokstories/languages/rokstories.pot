@@ -1,0 +1,394 @@
+# Copyright (C) 2010 RokStories
+# This file is distributed under the same license as the RokStories package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RokStories 1.21\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/rokstories\n"
+"POT-Creation-Date: 2011-05-04 20:30:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: rokstories.php:338
+msgid "General Parameters"
+msgstr ""
+
+#: rokstories.php:341 rokstories.php:415
+msgid "Title"
+msgstr ""
+
+#: rokstories.php:348
+msgid "Load built-in StyleSheet"
+msgstr ""
+
+#: rokstories.php:351 rokstories.php:444 rokstories.php:454 rokstories.php:464
+#: rokstories.php:474 rokstories.php:484 rokstories.php:511 rokstories.php:586
+#: rokstories.php:605 rokstories.php:615 rokstories.php:625 rokstories.php:645
+#: rokstories.php:655 rokstories.php:665 rokstories.php:675 rokstories.php:685
+#: rokstories.php:695 rokstories.php:773
+msgid "No"
+msgstr ""
+
+#: rokstories.php:353 rokstories.php:446 rokstories.php:456 rokstories.php:466
+#: rokstories.php:476 rokstories.php:486 rokstories.php:513 rokstories.php:588
+#: rokstories.php:607 rokstories.php:617 rokstories.php:627 rokstories.php:647
+#: rokstories.php:657 rokstories.php:667 rokstories.php:677 rokstories.php:687
+#: rokstories.php:697 rokstories.php:775
+msgid "Yes"
+msgstr ""
+
+#: rokstories.php:358
+msgid "Layout Type"
+msgstr ""
+
+#: rokstories.php:361 rokstories.php:537
+msgid "Default"
+msgstr ""
+
+#: rokstories.php:362
+msgid "Showcase"
+msgstr ""
+
+#: rokstories.php:363
+msgid "Compact Showcase"
+msgstr ""
+
+#: rokstories.php:364
+msgid "Compact Showcase and Numbers"
+msgstr ""
+
+#: rokstories.php:365
+msgid "Masked Showcase"
+msgstr ""
+
+#: rokstories.php:366
+msgid "Scroller"
+msgstr ""
+
+#: rokstories.php:367
+msgid "Scroller Showcase"
+msgstr ""
+
+#: rokstories.php:368
+msgid "Showcase Tabs"
+msgstr ""
+
+#: rokstories.php:374
+msgid "Content Category"
+msgstr ""
+
+#: rokstories.php:385
+msgid "Content Type"
+msgstr ""
+
+#: rokstories.php:388
+msgid "Posts"
+msgstr ""
+
+#: rokstories.php:389
+msgid "Pages"
+msgstr ""
+
+#: rokstories.php:395
+msgid "Choose Content"
+msgstr ""
+
+#: rokstories.php:398
+msgid "Content"
+msgstr ""
+
+#: rokstories.php:399
+msgid "Excerpt"
+msgstr ""
+
+#: rokstories.php:405
+msgid "Max Number of Posts"
+msgstr ""
+
+#: rokstories.php:411
+msgid "Order"
+msgstr ""
+
+#: rokstories.php:413
+msgid "Author"
+msgstr ""
+
+#: rokstories.php:414
+msgid "Date"
+msgstr ""
+
+#: rokstories.php:416
+msgid "Modified"
+msgstr ""
+
+#: rokstories.php:417
+msgid "Menu Order"
+msgstr ""
+
+#: rokstories.php:418
+msgid "Parent"
+msgstr ""
+
+#: rokstories.php:425
+msgid "Allowed HTML tags"
+msgstr ""
+
+#: rokstories.php:431
+msgid "Content Position"
+msgstr ""
+
+#: rokstories.php:433
+msgid "Left"
+msgstr ""
+
+#: rokstories.php:434
+msgid "Right"
+msgstr ""
+
+#: rokstories.php:435
+msgid "None"
+msgstr ""
+
+#: rokstories.php:441
+msgid "Show Title"
+msgstr ""
+
+#: rokstories.php:451
+msgid "Show Date"
+msgstr ""
+
+#: rokstories.php:461
+msgid "Show Author"
+msgstr ""
+
+#: rokstories.php:471
+msgid "Show Content"
+msgstr ""
+
+#: rokstories.php:481
+msgid "Show Link"
+msgstr ""
+
+#: rokstories.php:491
+msgid "Readon Style"
+msgstr ""
+
+#: rokstories.php:494
+msgid "Legacy"
+msgstr ""
+
+#: rokstories.php:496
+msgid "Standard"
+msgstr ""
+
+#: rokstories.php:501
+msgid "Readon Label"
+msgstr ""
+
+#: rokstories.php:508
+msgid "Catch First Image"
+msgstr ""
+
+#: rokstories.php:518
+msgid "Image Dimensions (px)"
+msgstr ""
+
+#: rokstories.php:526
+msgid "Thumbnail Dimensions (px)"
+msgstr ""
+
+#: rokstories.php:534
+msgid "Image Generator"
+msgstr ""
+
+#: rokstories.php:538
+msgid "TimThumb"
+msgstr ""
+
+#: rokstories.php:544
+msgid "Width of Thumbnail Display (px)"
+msgstr ""
+
+#: rokstories.php:551
+msgid "First Article"
+msgstr ""
+
+#: rokstories.php:554
+msgid "(first is 0, second 1, etc.)"
+msgstr ""
+
+#: rokstories.php:559
+msgid "Thumbs Opacity"
+msgstr ""
+
+#: rokstories.php:566
+msgid "Fixed Height (px)"
+msgstr ""
+
+#: rokstories.php:573
+msgid "Navigation Interaction"
+msgstr ""
+
+#: rokstories.php:576
+msgid "Click"
+msgstr ""
+
+#: rokstories.php:577
+msgid "Mouseover"
+msgstr ""
+
+#: rokstories.php:583
+msgid "Autoplay"
+msgstr ""
+
+#: rokstories.php:593
+msgid "Autoplay Delay (ms)"
+msgstr ""
+
+#: rokstories.php:599
+msgid "Additional Showcase Type Parameters"
+msgstr ""
+
+#: rokstories.php:602
+msgid "Show Label Title"
+msgstr ""
+
+#: rokstories.php:612
+msgid "Show Arrows"
+msgstr ""
+
+#: rokstories.php:622
+msgid "Show Circles"
+msgstr ""
+
+#: rokstories.php:632
+msgid "Arrows Placement"
+msgstr ""
+
+#: rokstories.php:635
+msgid "Inside"
+msgstr ""
+
+#: rokstories.php:637
+msgid "Outside"
+msgstr ""
+
+#: rokstories.php:642
+msgid "Show Previews on Arrows"
+msgstr ""
+
+#: rokstories.php:652
+msgid "Fixed Previews"
+msgstr ""
+
+#: rokstories.php:662
+msgid "Linked Titles"
+msgstr ""
+
+#: rokstories.php:672
+msgid "Linked Labels"
+msgstr ""
+
+#: rokstories.php:682
+msgid "Linked Images"
+msgstr ""
+
+#: rokstories.php:692
+msgid "Show Image Mask"
+msgstr ""
+
+#: rokstories.php:702
+msgid "Description Animation"
+msgstr ""
+
+#: rokstories.php:705 rokstories.php:716
+msgid "Top Down"
+msgstr ""
+
+#: rokstories.php:706 rokstories.php:717
+msgid "Bottom Up"
+msgstr ""
+
+#: rokstories.php:707 rokstories.php:718
+msgid "Fade"
+msgstr ""
+
+#: rokstories.php:713
+msgid "Images Animation"
+msgstr ""
+
+#: rokstories.php:724
+msgid "Scroller Duration (ms)"
+msgstr ""
+
+#: rokstories.php:731
+msgid "Transition Effect"
+msgstr ""
+
+#: rokstories.php:770
+msgid "Show Controls"
+msgstr ""
+
+#: rokstories.php:782
+msgid "Left Preview Offset X"
+msgstr ""
+
+#: rokstories.php:789
+msgid "Left Preview Offset Y"
+msgstr ""
+
+#: rokstories.php:796
+msgid "Right Preview Offset X"
+msgstr ""
+
+#: rokstories.php:803
+msgid "Right Preview Offset Y"
+msgstr ""
+
+#: rokstories.php:810
+msgid "Left Fixed Preview Offset X"
+msgstr ""
+
+#: rokstories.php:817
+msgid "Left Fixed Preview Offset Y"
+msgstr ""
+
+#: rokstories.php:824
+msgid "Right Fixed Preview Offset X"
+msgstr ""
+
+#: rokstories.php:831
+msgid "Right Fixed Preview Offset Y"
+msgstr ""
+
+#: rokstories.php:840 rokstories.php:842
+msgid "GD2 Library Present: "
+msgstr ""
+
+#: rokstories.php:840 rokstories.php:846
+msgid "YES"
+msgstr ""
+
+#: rokstories.php:842 rokstories.php:848
+msgid "NO"
+msgstr ""
+
+#: rokstories.php:846 rokstories.php:848
+msgid "Cache Directory Writeable: "
+msgstr ""
+
+#: rokstories.php:1084
+msgid "Please use links only to images that are located on the same server as your WordPress site. If automatic thumbnails aren't working for you please check if the <b>cache</b> directory inside of the RokStories plugin dir has proper permissions."
+msgstr ""
+
+#: rokstories.php:1085
+msgid "Image Path:"
+msgstr ""
+
+#: tmpl/default.php:94 tmpl/layout3.php:99 tmpl/layout4.php:99
+#: tmpl/layout5.php:94 tmpl/layout6.php:80
+msgid "Written by"
+msgstr ""

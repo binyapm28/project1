@@ -1,0 +1,32 @@
+.chain-multibackgrounds .chain-label label {float:none;}
+.bg-button {background: url(../images/button.png) 0 0 no-repeat;width:9px;height:32px;font-size: 14px;line-height:32px;text-shadow: 1px 1px 1px #fff;cursor: pointer;display:block;float:left;text-decoration:none;outline:0;}
+.bg-button-right {background: url(../images/button.png) 100% -64px no-repeat;height:32px;margin-left:9px;display:block;float:left;padding-right: 9px;}
+a.bg-button span {color: #d06712;}
+a.bg-button:hover {background-position: 0 -32px;text-decoration:none;}
+a.bg-button:hover .bg-button-right {background-position: 100% -96px;}
+.mbg-current {float:left;font-size:12px;margin-left:65px;line-height:16px;}
+.mbg-current-total, .mbg-current-value {font-weight: bold;font-size: 13px;width:20px;display:block;float:left;margin-right:5px;text-align:right;}
+
+#backgrounds-list {position:absolute;top: 0;left: 0;background: #fff;z-index:1500;font-size:13px;width:600px;}
+#backgrounds-list p {margin: 15px 0 20px;background:#fff;text-shadow:1px 1px 1px #fff;}
+#backgrounds-list h2 {background:#fff;}
+#backgrounds-list h2, #backgrounds-list h3 {margin-top:0;border-bottom: 2px solid #ddd;margin-bottom: 5px;color:#C13201;}
+#backgrounds-list h3 {color: #000;text-transform:uppercase;border-bottom:1px solid #CCCCCC;padding-bottom:5px;margin-bottom:10px;position:relative;}
+#backgrounds-list h3 span {text-transform:none;color:#C13201;}
+#backgrounds-list input.example {color:#999;font-style:italic;}
+#backgrounds-list label span {text-align: right;padding-right: 10px;float: left;display:block; width: 85px;color:#666;text-transform: uppercase;font-size:80%;line-height:24px;}
+.backgrounds-list {background:#e9e9e9;padding:15px;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;margin-bottom:15px;width:250px;}
+.backgrounds-list-left {float: left;}
+.backgrounds-list-right {float: right;}
+.backgrounds-preview {border: 3px dashed #ddd;-webkit-border-radius:5px;-moz-border-radius:5px;color:#ddd;background:transparent;padding:5px 15px;margin-bottom:15px;}
+.backgrounds-bottom {padding: 15px 0;clear:both;}
+.backgrounds-bottom button {margin-right: 5px;clear:both;}
+ul.bglist {list-style:none;color:#666;font-weight:bold;padding:0;margin-bottom:0;position:relative;}
+ul.bglist li {cursor:move;padding: 5px;position:relative;-moz-user-select: none;-khtml-user-select: none;-webkit-user-select: none;-o-user-select: none;top:0;left:0;}
+ul.empty {border: 3px dashed #fff;-webkit-border-radius:5px;-moz-border-radius:5px;color:#fff;}
+ul.empty li.empty {font-size: 15px;text-align: center;text-shadow:0 1px 0 #aaa;}
+.backgrounds-preview ul.empty {margin: 0;color:#ddd;text-shadow:0;border:none;}
+.backgrounds-preview ul.empty li.empty {text-shadow:none;cursor:default;}
+li.drag {width: 200px;z-index:1000;}
+#ul-set div {display:none;}
+.mbg-delete {background:url(../images/delete.png) no-repeat;display:block;float:left;height:16px;margin:-1px 5px 0 -5px;width:16px;cursor:pointer;}

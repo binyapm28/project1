@@ -1,0 +1,11 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+
+/* Root Items */
+body.rtl .menutop.theme-splitmenu li {float: right;margin: 0 0 0 5px;}
+body.rtl .menutop.theme-splitmenu li .item {padding-right: 0;}
+body.rtl .menutop.theme-splitmenu li.parent .item span {padding-right: 5px;padding-left: 16px;}

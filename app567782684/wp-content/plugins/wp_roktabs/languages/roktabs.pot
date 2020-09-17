@@ -1,0 +1,226 @@
+# Translation of the WordPress plugin RokTabs by RocketTheme.
+# Copyright (C) 2010 RocketTheme
+# This file is distributed under the same license as the RokTabs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RokTabs\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/roktabs\n"
+"POT-Creation-Date: 2010-07-24 13:42+0200\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: roktabs.php:193 roktabs.php:198
+msgid "(more ...)"
+msgstr ""
+
+#: roktabs.php:277
+msgid "Sorry, but your category is empty!"
+msgstr ""
+
+#: roktabs.php:337
+msgid "Title:"
+msgstr ""
+
+#: roktabs.php:340
+msgid "Category:"
+msgstr ""
+
+#: roktabs.php:343
+msgid "Type of Content :"
+msgstr ""
+
+#: roktabs.php:345
+msgid "Content"
+msgstr ""
+
+#: roktabs.php:346
+msgid "Excerpt"
+msgstr ""
+
+#: roktabs.php:349
+msgid "Order:"
+msgstr ""
+
+#: roktabs.php:351
+msgid "Author"
+msgstr ""
+
+#: roktabs.php:352
+msgid "Date"
+msgstr ""
+
+#: roktabs.php:353
+msgid "Title"
+msgstr ""
+
+#: roktabs.php:354
+msgid "Modified"
+msgstr ""
+
+#: roktabs.php:355
+msgid "Menu Order"
+msgstr ""
+
+#: roktabs.php:356
+msgid "Parent"
+msgstr ""
+
+#: roktabs.php:359
+msgid "Number of Tabs:"
+msgstr ""
+
+#: roktabs.php:362
+msgid "Tabs Position:"
+msgstr ""
+
+#: roktabs.php:364
+msgid "Top"
+msgstr ""
+
+#: roktabs.php:365
+msgid "Bottom"
+msgstr ""
+
+#: roktabs.php:366
+msgid "Hidden"
+msgstr ""
+
+#: roktabs.php:369
+msgid "Width:"
+msgstr ""
+
+#: roktabs.php:372
+msgid "Links Margin:"
+msgstr ""
+
+#: roktabs.php:374 roktabs.php:380 roktabs.php:442
+msgid "Yes"
+msgstr ""
+
+#: roktabs.php:376 roktabs.php:382 roktabs.php:444
+msgid "No"
+msgstr ""
+
+#: roktabs.php:378
+msgid "Show Tab Icons:"
+msgstr ""
+
+#: roktabs.php:384
+msgid "Icon Position:"
+msgstr ""
+
+#: roktabs.php:386
+msgid "Left"
+msgstr ""
+
+#: roktabs.php:387
+msgid "Right"
+msgstr ""
+
+#: roktabs.php:390
+msgid "Mouse Interaction:"
+msgstr ""
+
+#: roktabs.php:392
+msgid "Click"
+msgstr ""
+
+#: roktabs.php:393
+msgid "MouseOver"
+msgstr ""
+
+#: roktabs.php:396
+msgid "Transition Duration:"
+msgstr ""
+
+#: roktabs.php:399
+msgid "Transition Type:"
+msgstr ""
+
+#: roktabs.php:401
+msgid "Scrolling"
+msgstr ""
+
+#: roktabs.php:402
+msgid "Fading"
+msgstr ""
+
+#: roktabs.php:405
+msgid "Transition Effect:"
+msgstr ""
+
+#: roktabs.php:440
+msgid "Enable Autoplay:"
+msgstr ""
+
+#: roktabs.php:446
+msgid "Autoplay Delay:"
+msgstr ""
+
+#: roktabs.php:608
+msgid "Icon"
+msgstr ""
+
+#: roktabs.php:642
+msgid "Please Choose Icon :"
+msgstr ""
+
+#: roktabs.php:675 roktabs.php:690
+msgid "Settings"
+msgstr ""
+
+#: roktabs.php:736
+msgid "RokTabs settings saved."
+msgstr ""
+
+#: roktabs.php:752 roktabs.php:760
+msgid "Save Changes"
+msgstr ""
+
+#: roktabs.php:767
+msgid "Preset Themes"
+msgstr ""
+
+#: roktabs.php:770
+msgid "Light"
+msgstr ""
+
+#: roktabs.php:771
+msgid "Dark"
+msgstr ""
+
+#: roktabs.php:772
+msgid "Custom"
+msgstr ""
+
+#: roktabs.php:778
+msgid "Icons Path"
+msgstr ""
+
+#: roktabs.php:786
+msgid "Path Preview"
+msgstr ""
+
+#: roktabs.php:801
+msgid "Please Use :"
+msgstr ""
+
+#: roktabs.php:808
+msgid "for the path to the RokTabs plugin ie."
+msgstr ""
+
+#: roktabs.php:809
+msgid "for the path to your currently active theme ie."
+msgstr ""
+
+#: roktabs.php:810
+msgid "for the path to the wp-content directory ie."
+msgstr ""

@@ -1,0 +1,204 @@
+# Translation of the WordPress plugin RokNewsPager by RocketTheme.
+# Copyright (C) 2010 RocketTheme
+# This file is distributed under the same license as the RokNewsPager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RokNewsPager\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/roknewspager\n"
+"POT-Creation-Date: 2010-07-24 12:49+0200\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: roknewspager.php:96
+msgid "Sorry, but your category is empty!"
+msgstr ""
+
+#: roknewspager.php:118 roknewspager.php:128
+msgid "Title"
+msgstr ""
+
+#: roknewspager.php:121
+msgid "Posts Category:"
+msgstr ""
+
+#: roknewspager.php:124
+msgid "Order:"
+msgstr ""
+
+#: roknewspager.php:126
+msgid "Author"
+msgstr ""
+
+#: roknewspager.php:127
+msgid "Date"
+msgstr ""
+
+#: roknewspager.php:129
+msgid "Modified"
+msgstr ""
+
+#: roknewspager.php:130
+msgid "Menu Order"
+msgstr ""
+
+#: roknewspager.php:131
+msgid "Parent"
+msgstr ""
+
+#: roknewspager.php:135
+msgid "Number of Posts Per Page:"
+msgstr ""
+
+#: roknewspager.php:138
+msgid "Show Content:"
+msgstr ""
+
+#: roknewspager.php:140 roknewspager.php:152 roknewspager.php:158
+#: roknewspager.php:164 roknewspager.php:170 roknewspager.php:176
+#: roknewspager.php:187 roknewspager.php:193 roknewspager.php:202
+#: roknewspager.php:211 roknewspager.php:217 roknewspager.php:683
+msgid "Yes"
+msgstr ""
+
+#: roknewspager.php:142 roknewspager.php:154 roknewspager.php:160
+#: roknewspager.php:166 roknewspager.php:172 roknewspager.php:178
+#: roknewspager.php:189 roknewspager.php:195 roknewspager.php:204
+#: roknewspager.php:213 roknewspager.php:219 roknewspager.php:685
+msgid "No"
+msgstr ""
+
+#: roknewspager.php:144
+msgid "Type of Content:"
+msgstr ""
+
+#: roknewspager.php:146
+msgid "Content"
+msgstr ""
+
+#: roknewspager.php:147
+msgid "Excerpt"
+msgstr ""
+
+#: roknewspager.php:150
+msgid "Display Post Title:"
+msgstr ""
+
+#: roknewspager.php:156
+msgid "Display Date:"
+msgstr ""
+
+#: roknewspager.php:162
+msgid "Display Author:"
+msgstr ""
+
+#: roknewspager.php:168
+msgid "Display Comments:"
+msgstr ""
+
+#: roknewspager.php:174
+msgid "Display Thumbnails:"
+msgstr ""
+
+#: roknewspager.php:180
+msgid "Thumbnail Dimensions:"
+msgstr ""
+
+#: roknewspager.php:185
+msgid "Link Thumbnails:"
+msgstr ""
+
+#: roknewspager.php:191
+msgid "Show \"More\" Button:"
+msgstr ""
+
+#: roknewspager.php:197
+msgid "\"More\" Button Label:"
+msgstr ""
+
+#: roknewspager.php:200
+msgid "Pagination:"
+msgstr ""
+
+#: roknewspager.php:206
+msgid "Max Number of Pages:"
+msgstr ""
+
+#: roknewspager.php:209
+msgid "Accordion:"
+msgstr ""
+
+#: roknewspager.php:215
+msgid "Auto Update:"
+msgstr ""
+
+#: roknewspager.php:221
+msgid "Update Delay:"
+msgstr ""
+
+#: roknewspager.php:226
+msgid "Debug Information"
+msgstr ""
+
+#: roknewspager.php:229
+msgid "GD2 Library Present: "
+msgstr ""
+
+#: roknewspager.php:232 roknewspager.php:241
+msgid "YES"
+msgstr ""
+
+#: roknewspager.php:234 roknewspager.php:243
+msgid "NO"
+msgstr ""
+
+#: roknewspager.php:238
+msgid "Cache Directory Writeable: "
+msgstr ""
+
+#: roknewspager.php:570
+msgid ""
+"Please use links only to images that are located on the same server as your "
+"WordPress site. If automatic thumbnails aren't working for you please check "
+"if the <b>cache</b> directory inside of the RokNewsPager plugin dir has "
+"proper permissions."
+msgstr ""
+
+#: roknewspager.php:571
+msgid "Image Path:"
+msgstr ""
+
+#: roknewspager.php:596 roknewspager.php:611
+msgid "Settings"
+msgstr ""
+
+#: roknewspager.php:638
+msgid "RokNewsPager settings saved."
+msgstr ""
+
+#: roknewspager.php:654 roknewspager.php:662
+msgid "Save Changes"
+msgstr ""
+
+#: roknewspager.php:669
+msgid "Preset Themes"
+msgstr ""
+
+#: roknewspager.php:672
+msgid "Light"
+msgstr ""
+
+#: roknewspager.php:673
+msgid "Dark"
+msgstr ""
+
+#: roknewspager.php:679
+msgid "Load Custom CSS"
+msgstr ""

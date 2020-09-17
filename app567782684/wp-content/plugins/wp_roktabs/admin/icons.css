@@ -1,0 +1,13 @@
+/**
+ * @version   1.18 April 14, 2011
+ * @author    RocketTheme, LLC http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+.icons {clear:both;margin: 5px 0;}
+.icons_previews {float:left;margin-right:5px;}
+.icons select {float:left;}
+.icons .tab_label {float: left;margin: 2px 5px 0 0;color:#333;font-weight:bold;}
+.icons .controls span {float:left;margin-left:2px;width:16px;height:16px;cursor:pointer;}
+.roktabs-notice {background:url(notice.png) repeat-x scroll 0 100% transparent;border:1px solid #C7CDDA;color:#6187B3;width:50%;margin:0 auto;padding:15px;}
+.roktabs-notice div.path_tokens {font-weight: bold; width: 130px; float: left;}

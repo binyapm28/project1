@@ -1,0 +1,19 @@
+/* General */
+
+.rokstories-admin-wrapper {border-radius: 5px; padding: 10px 10px; background: -moz-linear-gradient(bottom, #d7d7d7, #f0f0f0); border: 1px solid #f0f0f0; -moz-box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.25); background: -webkit-gradient(linear, left bottom, left top, from(#d7d7d7), to(#f0f0f0)); -webkit-box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.25); box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.25);}
+.rokstories-admin-wrapper .rokstories-leftcol {float: left; width: 55%; border-right: #919191 dashed 1px;}
+.rokstories-admin-wrapper .rokstories-rightcol {float: left; width: 40%; padding-left: 15px;}
+.rokstories-admin-wrapper .clear {clear: both;}
+.rokstories-admin-wrapper .param {display: block; margin: 10px 0;}
+.rokstories-admin-wrapper .param .desc {display: inline-block; width: 145px;}
+.rokstories-admin-wrapper .param .inputbox {width: 200px;}
+.rokstories-admin-wrapper .param .smallinputbox {width: 50px;}
+.rokstories-admin-wrapper .splitter {border: none; border-bottom: 1px dashed #919191; display: block; margin: 20px 0;}
+.rokstories-admin-wrapper .small {font-size: 90%; color: #666; font-style: italic;}
+
+/* Diagnostic */
+
+.rokstories-diag {margin-top: 25px;}
+.rokstories-diag .approved, .rokstories-diag .alert {width: 28%; display: inline-block; margin-right: 10px;}
+.rokstories-diag .approved {background-color: #74924A; background-image: url("approved.png"); background-position: 10px 50%; background-repeat: no-repeat; border-top: 1px solid rgba(255, 255, 255, 0.3); color: #232F12; text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3); border-radius: 6px 6px 6px 6px; font-weight: bold; padding: 10px 10px 10px 45px;}
+.rokstories-diag .alert {background-color: #BD5151; background-image: url("alert.png"); background-position: 10px 50%; background-repeat: no-repeat; border-top: 1px solid rgba(255, 255, 255, 0.3); color: #4C1818; text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3); border-radius: 6px 6px 6px 6px; font-weight: bold; padding: 10px 10px 10px 45px;}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!-- $Id: style.xml 16565 2010-04-28 12:21:27Z ian $ -->
+<form>
+	<fieldset name="widget">
+		<field name="category" type="categories" label="Category" description="Please choose the category" default="" class="widefat" readonly="false"/>
+		<field name="orderby" type="list" class="widefat" label="Order By" description="Order By" default="date" readonly="false">
+            <option value="author">Author</option>
+            <option value="date">Date</option>
+			<option value="title">Title</option>
+			<option value="modified">Modified</option>
+			<option value="menu_order">Menu Order</option>
+			<option value="parent">Parent</option>
+			<option value="id">ID</option>
+        </field>
+	</fieldset>
+</form>

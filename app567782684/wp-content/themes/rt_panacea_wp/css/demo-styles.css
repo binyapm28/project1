@@ -1,0 +1,50 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+/* Frontpage Content */
+.floatleft {float: left;margin-right: 15px;}
+.floatright {float: right;margin-left: 15px;}
+.floatnone {float: none !important;}
+.clearnone {clear: none !important;}
+.demo-grid-2 {width:140px;}
+.demo-grid-3 {width:220px;}
+.demo-grid-4 {width:300px;}
+.demo-grid-2, .demo-grid-3, .demo-grid-4 {float: left;display:inline;position: relative;margin: 0 10px;}
+
+/* Extensions */
+.rt-ext-col1 {float: left;width: 47%;}
+.rt-ext-col2 {float: right;width: 47%;}
+.rt-ext-block {margin-bottom: 30px;overflow: hidden;}
+.rt-ext-block.last {margin-bottom: 0;}
+.rt-ext-img {float: left;margin-right: 20px;margin-bottom: 50px;}
+.rt-ext-divider {height: 10px;display: block;}
+.rt-ext-links {display: block;margin-left: 100px;}
+
+/* Style Variations */
+.demo-sv-title {width: 250px;float: left;margin-right: 15px; padding: 0 6px;}
+.demo-sv-title h2 {text-align: center;}
+
+/* Tutorials */
+.demo-tut-list {float: left;width: 45%;}
+.demo-tut-video-img {margin-right: 15px;width: 123px;float: left;}
+.demo-tut-divider {width: 15px;}
+
+/* RokBox */
+
+.rokbox-example div.center {text-align:center;}
+.rokbox-example .link-class {margin: 0 10px;}
+
+/* RTL Stuff */
+body.rtl .floatleft {float: right;margin-right: 0;margin-left: 15px;}
+body.rtl .floatright {float: left;margin-left: 0;margin-right: 15px;}
+body.rtl .rt-ext-col1 {float: right;}
+body.rtl .rt-ext-col2 {float: left;}
+body.rtl .rt-ext-img {float: right;margin-right: 0;margin-left: 20px;}
+body.rtl .rt-ext-links {margin-right: 100px;margin-left: 0;}
+body.rtl .demo-sv-title {float: right;margin-right: 0;margin-left: 11px;padding-left: 0;padding-right: 6px;}
+body.rtl .demo-tut-list {float: right;}
+body.rtl .demo-tut-video-img {margin-right: 0;margin-left: 15px;float: right;}
+body.rtl .demo-grid-2, body.rtl .demo-grid-3, body.rtl .demo-grid-4 {float: right;}

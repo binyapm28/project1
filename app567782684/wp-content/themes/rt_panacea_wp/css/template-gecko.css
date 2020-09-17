@@ -1,0 +1,20 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+ 
+/* Core */
+body {text-rendering: optimizeSpeed;}
+
+/* Module Variations */
+.box1 .rt-block, .box2 .rt-block, .box3 .rt-block, .roktabs-wrapper .active-arrows, .title3 .module-title-surround, .title4 .module-title-surround, .title5 .module-title-surround, #more-articles, .title1 .module-title-surround, .title2 .module-title-surround, .box1 .rt-article-bg, .box2 .rt-article-bg, .box3 .rt-article-bg {-moz-border-radius: 3px;}
+.rotator-line1 {margin-bottom: 12px;}
+
+/* Typography */
+.rokradios, .rokchecks {line-height: 130%;}
+.readonstyle-button .readon .button {padding-bottom: 2px;}
+#more-articles span {line-height: 24px;}
+
+body #rt-main #community-wrap .cModule, body #rt-main #community-wrap .cSubmenu {-moz-border-radius: 0 0 0 0;}

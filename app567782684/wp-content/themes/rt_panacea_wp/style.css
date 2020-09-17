@@ -1,0 +1,38 @@
+/*
+Theme Name: Panacea
+Theme URI: http://www.rockettheme.com
+Description: RocketTheme Panacea Theme for Wordpress
+Version: 1.2
+Author: RocketTheme, LLC
+Author URI: http://www.rockettheme.com
+*/
+
+div.soc-nt > iframe {
+	margin: 0 10px 8px 0;
+}
+div.soc-nt iframe, .AWD_facebook_likebutton {
+	width: 53px;
+	overflow: hidden;
+	float: left
+}
+
+.jcarousel-skin-tango .jcarousel-container {
+-moz-border-radius: 10px;
+background: white;
+border: 1px solid white;
+padding: 0px 40px;
+}
+.module-content div#clients_carousel_container .jcarousel-skin-tango .jcarousel-prev-horizontal,
+.module-content div#clients_carousel_container .jcarousel-skin-tango .jcarousel-next-horizontal {
+	top: 91px !important;
+}
+.pluginButton {
+background: transparent url('/wp-content/uploads/2012/11/facebook.png') no-repeat top left;
+width: 16px;
+height:16px;
+text-indent: -9000px;
+overflow: hidden;
+border: 0;
+padding: 0;
+
+}

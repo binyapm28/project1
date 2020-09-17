@@ -1,0 +1,28 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+
+/* Root Items */
+body.rtl .menutop.theme-fusion li.root {float: right;margin: 0 0 0 5px;}
+body.rtl .menutop.theme-fusion li.parent.root .item span {padding-right: 6px;padding-left: 16px;}
+body.rtl .menutop.theme-fusion li.root > .item img {margin: 2px 0 0 5px;}
+body.rtl .menutop.theme-fusion li.root > .image span {padding-left: 5px;padding-right: 6px;}
+body.rtl .menutop.theme-fusion li.root > .image span em {padding-left: 0;padding-right: 22px;}
+body.rtl .menutop.theme-fusion li.root > .bullet {padding-right: 0;}
+
+/* Dropdown Surrounds */
+body.rtl .menutop.theme-fusion ul {float: right;}
+
+/* Dropdown Items */
+body.rtl .menutop.theme-fusion ul li {margin-left: 0;margin-right: 2px;}
+body.rtl .menutop.theme-fusion ul.columns2 li {float: right;margin-left: 0;margin-right: 2px;}
+body.rtl .menutop.theme-fusion li > .bullet {padding-left: 0;padding-right: 10px;}
+body.rtl .menutop.theme-fusion li .item img {float: right;margin: 4px 10px 8px 8px;}
+
+/* No JS */
+body.rtl .menutop.theme-fusion li.root:hover > .fusion-submenu-wrapper {left:inherit;right: -26px;}
+body.rtl .menutop.theme-fusion ul.columns1 li:hover > .fusion-submenu-wrapper {right:180px;left: inherit;}
+body.rtl .menutop.theme-fusion ul.columns2 li:hover > .fusion-submenu-wrapper {right:178px;left: inherit;}

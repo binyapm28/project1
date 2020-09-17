@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<gantrytips>
+	
+	<tip id="static" label="Static CSS"><![CDATA[When enabled, a static file is used rather than inline CSS. This can potentially improve performace (especially combined with Gantry GZipper) but could have permissions issues if your setup is not correct. The 'Check Changes' option ensures that any changes in the admin is reflected in the static CSS file. Setting this value to OFF when you are satisfied will remove the check and again, potentially improve performance.]]></tip>
+	
+	<tip id="page" label="Main Background"><![CDATA[Set the background color of the main page background.]]></tip>
+	
+	<tip id="header" label="Header"><![CDATA[Set the background color, text color, link color, and overlay style for the Header section of the theme.]]></tip>
+	
+	<tip id="body" label="Body"><![CDATA[Set the background color, text color, link color, and overlay style for the Body section of the theme.]]></tip>
+	
+	<tip id="footer" label="Footer"><![CDATA[Set the background color, text color, link color, and overlay style for the Footer section of the theme.]]></tip>
+	
+	<tip id="module1" label="Widget Box 1"><![CDATA[Set the background color, text color, and link color for the box1 widget variation.]]></tip>
+	
+	<tip id="module2" label="Widget Box 2"><![CDATA[Set the background color, text color, and link color for the box2 widget variation.]]></tip>
+	
+	<tip id="module3" label="Widget Box 3"><![CDATA[Set the background color, text color, and link color for the box3 widget variation.]]></tip>
+	
+	<tip id="readonstyle" label="Read More Style"><![CDATA[Set the read more link styling for the theme.]]></tip>
+	
+	<tip id="articlestyle" label="Article Style"><![CDATA[Enter widget variation suffixes to provide matching content block styling ie. title1 or title2. Separate widget variation suffixes with a space to enter multiple suffix styles.]]></tip>
+	
+	<tip id="articleoverlay" label="Article Overlay"><![CDATA[Select an article overlay style for light or dark colors.]]></tip>
+	
+	<tip id="articledetails" label="Article Info Style"><![CDATA[Select a layout style for the article info.]]></tip>
+		
+	<tip id="rotator" label="Rotator"><![CDATA[Configure settings for the Content and Background of the Rotator. The setup guide can be found in the Tutorials page.]]></tip>
+	
+	<tip id="headerwidth" label="Header Width"><![CDATA[Choose between a wrapped or full width header.]]></tip>
+	
+	<tip id="footerwidth" label="Footer Width"><![CDATA[Choose between a wrapped or full width footer.]]></tip>
+	
+	<tip id="thumb" label="Thumbnail Size"><![CDATA[The settings for width and height allow you to set the <strong>Thumbnail Size</strong> for thumbnail images that will appear next to your posts on blog, archive and search pages, etc.]]></tip>
+	
+	<tip id="webfonts" label="WebFonts"><![CDATA[This setting allows you to use <strong>3rd party WebFonts</strong> from providers such as Google. You must first set WebFonts to show and then save your changes, then the available WebFonts will appear in the Font Settings dropdown from where they can be selected.]]></tip>
+	
+	<tip id="font" label="Font Settings"><![CDATA[A selection of fonts to be applied to your site's frontend is available from the <strong>Font Settings</strong> dropdown. It is also possible to set the <strong>Font Size</strong> according to your preference.]]></tip>
+	
+	<tip id="wordpress-comments" label="Wordpress Comments"><![CDATA[This is a global setting that loads the comments form in the theme. If you want to use a 3rd party comments solution please disable that toggle to keep the WordPress comments enabled, but not loaded in the Gantry based theme.]]></tip>
+	
+	<tip id="comments-style" label="Comments Style"><![CDATA[Here you can choose the layout that you'd like to use to display comments in your content. The Standard one has more advanced graphics but doesn't support threaded comments, the basic one is simplier and supports threaded comments.]]></tip>
+	
+	<tip id="customcss" label="Custom CSS"><![CDATA[This field lets you easily add inline css code to your site ie. body {font-weight: bold;}]]></tip>
+	
+</gantrytips>

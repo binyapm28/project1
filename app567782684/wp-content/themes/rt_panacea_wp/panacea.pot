@@ -1,0 +1,382 @@
+# Copyright (C) 2010 Panacea
+# This file is distributed under the same license as the Panacea package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Panacea 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/panacea\n"
+"POT-Creation-Date: 2011-02-15 20:20:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/forms/fields/multibackgrounds.php:50
+msgid "Backgrounds Rotator Manager"
+msgstr ""
+
+#: admin/forms/fields/multibackgrounds.php:51
+msgid ""
+"From the left list drag the backgrounds you want to activate on the right "
+"list. You can sort the right table by drag & dropping each element at the "
+"desired position. To remove a background from the right list simply click on "
+"the (x) button of the item. To preview a background drag & drop from the "
+"left list into the preview area, double click anywhere in the background "
+"image to reset the preview."
+msgstr ""
+
+#: admin/forms/fields/multibackgrounds.php:52
+msgid "Backrounds Available"
+msgstr ""
+
+#: admin/forms/fields/multibackgrounds.php:53
+msgid "Backgrounds Set"
+msgstr ""
+
+#: functions.php:19
+msgid ""
+"The active theme requires the Gantry Framework Plugin to be installed and "
+"active"
+msgstr ""
+
+#: gizmos/styledeclaration.php:131 gizmos/styledeclaration.php:143
+msgid "Unable to write \"static-styles.css\" in the \"/css\" folder."
+msgstr ""
+
+#: html/404.php:8
+msgid "404 Page Not Found"
+msgstr ""
+
+#: html/archive.php:81
+msgid "Category:"
+msgstr ""
+
+#: html/archive.php:83
+msgid "Posts Tagged"
+msgstr ""
+
+#: html/archive.php:85 html/archive.php:87 html/archive.php:89
+msgid "Archive for"
+msgstr ""
+
+#: html/archive.php:91
+msgid "Author Archive"
+msgstr ""
+
+#: html/archive.php:93
+msgid "Blog Archives"
+msgstr ""
+
+#: html/archive.php:150 html/home.php:85 html/index.php:85 html/page.php:54
+#: html/search.php:93 html/single.php:54
+msgid "Posted on"
+msgstr ""
+
+#: html/archive.php:160 html/home.php:95 html/index.php:95 html/page.php:64
+#: html/search.php:103 html/single.php:64
+msgid "Last Updated on"
+msgstr ""
+
+#: html/archive.php:170 html/home.php:105 html/index.php:105 html/page.php:74
+#: html/search.php:113 html/single.php:74
+msgid "Written by"
+msgstr ""
+
+#: html/archive.php:184 html/archive.php:190 html/home.php:119
+#: html/home.php:125 html/index.php:119 html/index.php:125 html/page.php:84
+#: html/search.php:127 html/search.php:133 html/single.php:84
+msgid "0 Comments"
+msgstr ""
+
+#: html/archive.php:184 html/archive.php:190 html/home.php:119
+#: html/home.php:125 html/index.php:119 html/index.php:125 html/page.php:84
+#: html/search.php:127 html/search.php:133 html/single.php:84
+msgid "1 Comment"
+msgstr ""
+
+#: html/archive.php:184 html/archive.php:190 html/home.php:119
+#: html/home.php:125 html/index.php:119 html/index.php:125 html/page.php:84
+#: html/search.php:127 html/search.php:133 html/single.php:84
+msgid "% Comments"
+msgstr ""
+
+#: html/archive.php:250 html/home.php:185 html/index.php:185
+#: html/search.php:193
+msgid "Older Entries"
+msgstr ""
+
+#: html/archive.php:253 html/home.php:188 html/index.php:188
+#: html/search.php:196
+msgid "Newer Entries"
+msgstr ""
+
+#: html/archive.php:265
+msgid "Sorry, but there aren't any posts matching your query."
+msgstr ""
+
+#: html/gantrymenu/themes/catalog.php:9
+msgid "Panacea Fusion"
+msgstr ""
+
+#: html/gantrymenu/themes/catalog.php:11
+msgid "Panacea SplitMenu"
+msgstr ""
+
+#: html/gantrymenu/themes/catalog.php:13
+msgid "Panacea Touch"
+msgstr ""
+
+#: html/gantrymenu/themes/itemfields.php:22
+msgid "Subtext"
+msgstr ""
+
+#: html/gantrymenu/themes/itemfields.php:31
+msgid "Icon"
+msgstr ""
+
+#: html/gantrymenu/themes/itemfields.php:58
+msgid "Number of Columns in Submenu"
+msgstr ""
+
+#: html/layouts/comment_basic.php:50
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: html/layouts/comment_basic.php:54
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: html/layouts/comment_basic.php:55
+msgid "(Edit)"
+msgstr ""
+
+#: html/layouts/comment_basic.php:69 html/layouts/comment_standard.php:60
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:40
+#: html/layouts/commentstempl_standard.php:40
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:57
+#: html/layouts/commentstempl_standard.php:57
+msgid "Comments"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:61
+#: html/layouts/commentstempl_standard.php:61
+msgid "Reply"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:68
+#: html/layouts/commentstempl_standard.php:68
+msgid "Older Comments"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:69
+#: html/layouts/commentstempl_standard.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:89
+#: html/layouts/commentstempl_standard.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:103
+#: html/layouts/commentstempl_standard.php:101
+msgid "Leave a Reply"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:103
+#: html/layouts/commentstempl_standard.php:101
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:113
+#: html/layouts/commentstempl_standard.php:111
+msgid "You must be"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:113
+#: html/layouts/commentstempl_standard.php:111
+msgid "logged in"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:113
+#: html/layouts/commentstempl_standard.php:111
+msgid "to post a comment."
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:121
+#: html/layouts/commentstempl_basic.php:148
+#: html/layouts/commentstempl_standard.php:119
+#: html/layouts/commentstempl_standard.php:146
+msgid "Website"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:126
+#: html/layouts/commentstempl_standard.php:124
+msgid "Logged in as"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:127
+#: html/layouts/commentstempl_standard.php:125
+msgid "Log out of this account"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:127
+#: html/layouts/commentstempl_standard.php:125
+msgid "Log out"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:133
+#: html/layouts/commentstempl_basic.php:134
+#: html/layouts/commentstempl_basic.php:135
+#: html/layouts/commentstempl_standard.php:131
+#: html/layouts/commentstempl_standard.php:132
+#: html/layouts/commentstempl_standard.php:133
+msgid "Name (Required)"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:141
+#: html/layouts/commentstempl_basic.php:142
+#: html/layouts/commentstempl_basic.php:143
+#: html/layouts/commentstempl_standard.php:139
+#: html/layouts/commentstempl_standard.php:140
+#: html/layouts/commentstempl_standard.php:141
+msgid "E-mail (Required)"
+msgstr ""
+
+#: html/layouts/commentstempl_basic.php:161
+#: html/layouts/commentstempl_standard.php:159
+msgid "Send"
+msgstr ""
+
+#: html/page.php:105 html/single.php:105
+msgid "Pages:"
+msgstr ""
+
+#: html/page.php:107 html/single.php:117
+msgid "Edit this entry."
+msgstr ""
+
+#: html/page.php:131
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: html/search.php:28
+msgid "Search Results for"
+msgstr ""
+
+#: html/search.php:208
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: html/single.php:111
+msgid "Tags:"
+msgstr ""
+
+#: html/single.php:124
+msgid "This entry was posted"
+msgstr ""
+
+#: html/single.php:129
+msgid "on"
+msgstr ""
+
+#: html/single.php:129
+msgid "at"
+msgstr ""
+
+#: html/single.php:130
+msgid "and is filed under"
+msgstr ""
+
+#: html/single.php:131
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: html/single.php:131
+msgid "feed"
+msgstr ""
+
+#: html/single.php:135
+msgid "You can"
+msgstr ""
+
+#: html/single.php:135
+msgid "leave a response"
+msgstr ""
+
+#: html/single.php:135
+msgid "or"
+msgstr ""
+
+#: html/single.php:135 html/single.php:139
+msgid "trackback"
+msgstr ""
+
+#: html/single.php:135 html/single.php:139
+msgid "from your own site."
+msgstr ""
+
+#: html/single.php:139
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: html/single.php:143
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: html/single.php:147
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: html/single.php:149
+msgid "Edit this entry"
+msgstr ""
+
+#: html/single.php:178
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: widgets/branding.php:48
+msgid "Designed By"
+msgstr ""
+
+#: widgets/branding.php:51
+msgid "Powered By"
+msgstr ""
+
+#: widgets/loginform.php:47
+msgid "Username"
+msgstr ""
+
+#: widgets/loginform.php:50
+msgid "Password"
+msgstr ""
+
+#: widgets/loginform.php:53 widgets/loginform.php:54
+msgid "Remember Me"
+msgstr ""
+
+#: widgets/loginform.php:56
+msgid "Login"
+msgstr ""
+
+#: widgets/loginform.php:60
+msgid "Forgot your password?"
+msgstr ""
+
+#: widgets/loginform.php:64
+msgid "Register"
+msgstr ""
+
+#: widgets/rotator.php:96
+msgid "Sorry, but your category is empty!"
+msgstr ""

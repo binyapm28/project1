@@ -1,0 +1,24 @@
+Feb  4 15:54:11 10.71.55.0 tmp78742259-6412 Connection from 10.71.55.0 port 31656 on 74.208.58.22 port 22
+Feb  4 15:54:11 10.71.55.0 tmp78742259-6412 Accepted password for tmp78742259-6412 from 10.71.55.0 port 31656 ssh2
+Feb  4 15:54:11 10.71.55.0 tmp78742259-6412 Starting session: subsystem 'sftp' for tmp78742259-6412 from 10.71.55.0 port 31656
+Feb  4 15:54:11 10.71.55.0 tmp78742259-6412 session opened for local user tmp78742259-6412 from [10.71.55.0]
+Feb  4 15:59:11 10.71.55.0 tmp78742259-1831 Connection from 10.71.55.0 port 40904 on 74.208.58.22 port 22
+Feb  4 15:59:12 10.71.55.0 tmp78742259-1831 Accepted password for tmp78742259-1831 from 10.71.55.0 port 40904 ssh2
+Feb  4 16:11:35 10.71.55.0 tmp78742259-6412 sent status Permission denied
+Feb  4 16:12:47 10.71.55.0 tmp78742259-6412 open "/.zip" flags READ mode 0666
+Feb  4 16:12:47 10.71.55.0 tmp78742259-6412 close "/.zip" bytes read 8621 written 0
+Feb  4 16:12:47 10.71.55.0 tmp78742259-6412 [10.71.55.0|get|0|8621|0|0|0|2f2e7a6970|]
+Feb  4 16:13:15 10.71.55.0 tmp78742259-6412 open "/.zip" flags READ mode 0666
+Feb  4 16:13:15 10.71.55.0 tmp78742259-6412 close "/.zip" bytes read 8621 written 0
+Feb  4 16:13:15 10.71.55.0 tmp78742259-6412 [10.71.55.0|get|0|8621|0|0|0|2f2e7a6970|]
+Feb  4 16:19:48 10.71.55.0 tmp78742259-6412 open "/BkUp.zip" flags READ mode 0666
+Feb  4 16:20:20 10.71.55.0 tmp78742259-6412 close "/BkUp.zip" bytes read 133362567 written 0
+Feb  4 16:20:20 10.71.55.0 tmp78742259-6412 [10.71.55.0|get|32|133362567|0|0|0|2f426b55702e7a6970|]
+Feb  4 16:32:19 10.71.55.0 tmp78742259-6412 open "/123.zip" flags READ mode 0666
+Feb  4 16:32:51 10.71.55.0 tmp78742259-6412 close "/123.zip" bytes read 133456757 written 0
+Feb  4 16:32:51 10.71.55.0 tmp78742259-6412 [10.71.55.0|get|32|133456757|0|0|0|2f3132332e7a6970|]
+Feb  4 16:41:41 10.71.55.0 tmp78742259-6412 open "/BkUp.zip" flags READ mode 0666
+Feb  4 16:42:14 10.71.55.0 tmp78742259-6412 close "/BkUp.zip" bytes read 133362567 written 0
+Feb  4 16:42:14 10.71.55.0 tmp78742259-6412 [10.71.55.0|get|33|133362567|0|0|0|2f426b55702e7a6970|]
+Feb  4 16:44:55 10.71.55.0 tmp78742259-6412 mkdir name "/AgileBkUpPhase1" mode 0777
+Feb  4 16:44:55 10.71.55.0 tmp78742259-6412 [10.71.55.0|mkdir|0|0|511|0|0|2f4167696c65426b5570506861736531|]

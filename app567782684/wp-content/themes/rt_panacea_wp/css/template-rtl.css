@@ -1,0 +1,67 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+
+/* Menu Dropdowns */
+body.rtl .menutop.theme-fusion ul, body.rtl .menutop.theme-fusion ul.columns2 {float: right;}
+
+/* Rotator */
+body.rtl .rotator-text {right: auto;left: 0;}
+body.rtl .rotator-line1 {padding-left: 0;padding-right: 5px;}
+body.rtl .rotator-line3 {text-align: left;padding-right: 0;padding-left: 5px;}
+body.rtl .rotator-preview {float: right;}
+body.rtl .rotator-preview-img {margin-right: 15px;margin-left: 0;}
+
+/* Side Menus */
+body.rtl .module-content ul.menu a, body.rtl .module-content ul.menu .separator, body.rtl .module-content ul.menu .item {padding: 0 20px 0 0;background-position: 100% 5px;background-repeat: no-repeat;}
+body.rtl .module-content ul.menu .subtext em {padding-left: 0;padding-right: 20px;}
+body.rtl .module-content ul.menu .image img {float: right;margin-left: 0;margin-right: -4px;}
+body.rtl .module-content ul.menu .item.image {padding-left: 0;padding-right: 8px;background: none;}
+body.rtl .module-content ul.menu ul {margin-left: 0;margin-right: 25px;}
+
+/* Footer */
+body.rtl #developed-by {float: right;}
+body.rtl #powered-by {float: left;}
+body.rtl #rocket, body.rtl #gantry-logo {margin:0 10px 0 0;}
+body.rtl #gantry-totop {left: auto;right: 10px;}
+body.rtl #gantry-resetsettings {right: auto;left: 10px;}
+
+/* Typography */
+.readonstyle-button.rtl .readon {margin: 0 26px 0 0;background-position: 0 0;}
+.readonstyle-button.rtl .readon span {margin: 0 -26px 0 0;padding: 0 32px 0 18px;}
+.readonstyle-button.rtl .readon .button {padding: 0 32px 0 18px;margin: 0 -26px 0 0;}
+.readonstyle-button.rtl .readon span span {margin-left: inherit;margin-right: 0;}
+.readonstyle-button.rtl .readon:hover {background-position: 0 -43px;}
+.readonstyle-button.rtl .readon:hover span, .readonstyle-button.rtl .readon:hover .button {background-position: 100% -43px !important;}
+.readonstyle-button.rtl .header-overlay-none .readon, .readonstyle-button.rtl .body-overlay-none .readon, .readonstyle-button.rtl .footer-overlay-none .readon {background: none !important;height: auto;margin: 0;padding: 0;}
+.readonstyle-button.rtl .header-overlay-none .readon span, .readonstyle-button.rtl .body-overlay-none .readon span, .readonstyle-button.rtl .footer-overlay-none .readon span {background: none;margin: 0;padding: 0;}
+.readonstyle-button.rtl .header-overlay-none .readon .button, .readonstyle-button.rtl .body-overlay-none .readon .button, .readonstyle-button.rtl .footer-overlay-none .readon .button {background: none !important;margin: 0;padding: 0;}
+body.rtl .rokradios, body.rtl .rokchecks {padding: 1px 16px 5px 5px;}
+body.rtl .rokradios {background-position: 100% 3px;}
+body.rtl .rokradios-active {background-position: 100% -202px;}
+body.rtl .rokchecks {background-position: 100% -426px;}
+body.rtl .rokchecks-active {background-position: 100% -675px;}
+body.rtl #form-login ul li a, body.rtl #com-form-login ul li a, body.rtl ul.rt-more-articles li a, body.rtl .rt-section-list ul li a, body.rtl ul.mostread li a, body.rtl ul.latestnews li a, body.rtl .weblinks ul li a {background-position: 100% 5px;}
+
+/* Breadcrumbs */
+body.rtl #breadcrumbs-home {float: right;}
+body.rtl span.breadcrumbs img {float: right;}
+body.rtl span.breadcrumbs a, body.rtl span.no-link {float: right;}
+
+/* Login Popup Feature */
+body.rtl #rt-login-button {float: left;}
+body.rtl #rt-login-button .buttontext span.desc {float: right;}
+body.rtl #rt-login-button .buttontext span.icon {float: right;}
+
+/* Font Sizer Feature */
+body.rtl #rt-accessibility {float: right;}
+body.rtl #rt-accessibility .rt-buttons {float: right;}
+body.rtl #rt-accessibility .rt-desc {float: right;padding-right: 0;padding-left: 5px;}
+
+/* Custom Content */
+body.rtl img.feature-img {float: right;margin-right: 0;margin-left: 15px;}
+body.rtl .number-image {float: right;margin-right: 0;margin-left: 15px;}
+body.rtl .number-image-text {margin: 0 -5px -8px 0;}

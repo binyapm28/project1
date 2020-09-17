@@ -1,0 +1,63 @@
+/**
+ * @version   1.2 August 21, 2011
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2011 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+/* Global */
+.menutop.theme-fusion li {height: auto;margin: 0;padding: 0;position: relative;list-style: none;}
+.menutop.theme-fusion em {font-size:80%;font-weight:normal;display:block;font-style:normal;}
+.menutop.theme-fusion li .item, .menutop.theme-fusion li.active .item {display: block;margin: 0;text-decoration: none;float: none;width: auto;}
+.menutop.theme-fusion li .fusion-submenu-wrapper {float: none;left: -999em;position: absolute;z-index: 500;}
+.menutop.theme-fusion li:hover li ul, .menutop.theme-fusion li.sfHover li ul {top: -999em;}
+.menutop.theme-fusion li:hover ul, .menutop.theme-fusion li.sfHover ul {top: 0;}
+
+/* Root Items */
+.menutop.theme-fusion {list-style: none;margin: 0;padding: 15px 0 1px 0;position: relative;line-height: 1em;display: inline-block;}
+.menutop.theme-fusion li.root {float: left;margin: 0 5px 0 0;}
+.menutop.theme-fusion li.root > .item {white-space: nowrap;display: block;text-transform: uppercase;padding: 0 0 4px;font-size: 12px;z-index: 100;cursor: pointer;position:relative;margin: 0;outline: none;}
+.menutop.theme-fusion li.root > .item span {display: block;margin: 0 0 -4px 0;outline: none;padding: 15px 5px;width: auto;}
+.menutop.theme-fusion li.root > .nolink span {line-height: 21px;}
+.menutop.theme-fusion li.root > .item em {font-size: 9px;font-weight: normal;display: block;font-style: normal;text-transform: uppercase;position: absolute;bottom: 6px;line-height: 14px; padding-right: 10px;}
+.menutop.theme-fusion li.parent.root .item span {padding-right: 16px;}
+.menutop.theme-fusion li.root > .item img {margin: 2px 5px 0 0;width: 16px;height: 16px;}
+.menutop.theme-fusion li.root > .image span {padding-left: 5px;}
+.menutop.theme-fusion li.root > .image span em {padding-left: 22px;}
+.menutop li.active.root .item em,
+.menutop li.active.root.f-mainparent-itemfocus .item em,
+.menutop li.root:hover .item em,
+.menutop li.root.f-mainparent-itemfocus .item em {margin-bottom: -4px;}
+
+/* Dropdown Surrounds */
+.menutop.theme-fusion ul {width: 187px;padding: 6px 0;margin: 0;float: left;}
+.menutop.theme-fusion .drop-top {display: none;}
+.menutop.theme-fusion .level2 > .drop-top {display: none;}
+.menutop.theme-fusion ul.columns2 {width: 361px;padding: 6px 0;}
+.menutop.theme-fusion .columns2 > .drop-top {width: 361px;}
+
+/* Dropdown Items */
+.menutop.theme-fusion ul li {width: 184px;margin-left: 2px;padding: 6px 0;}
+.menutop.theme-fusion ul.columns2 li {width: 178px;float: left;margin-left: 2px;}
+.menutop.theme-fusion li > .item {padding: 0;height: auto;display: block;font-size: 13px;}
+.menutop.theme-fusion li > .bullet {padding-left: 10px;}
+.menutop.theme-fusion li .item img {float: left;margin: 4px 8px 8px 10px;width: 16px;height: 16px;}
+.menutop.theme-fusion li > .item span {display: block;width: 100%;}
+.menutop.theme-fusion ul li .nolink span {display: block;padding-top: 5px;}
+.menutop.theme-fusion ul li .nolink img {margin-top: -2px;}
+.menutop.theme-fusion li a.item {cursor: pointer;}
+.menutop.theme-fusion li span.item {cursor: default;outline: none;}
+.menutop.theme-fusion ul li .subtext span {line-height: 20px;}
+.menutop.theme-fusion ul li .subtext em {line-height: 14px;}
+
+/* No JS */
+.menutop.theme-fusion li.root:hover > .fusion-submenu-wrapper {top: 52px;left: 0;}
+.menutop.theme-fusion ul.columns1 li:hover > .fusion-submenu-wrapper {left:180px;top:0;}
+.menutop.theme-fusion ul.columns2 li:hover > .fusion-submenu-wrapper {left:179px;top:0;}
+.nojs li > .item {border-bottom:0px !important;}
+.nojs ul li > .daddy span {padding-right:0px !important;}
+.nojs ul {margin-left:1px !important;width:180px !important;}
+.nojs ul.columns2  {width:361px !important;}
+
+/* Fusion JS */
+.fusion-js-container {display:block;height:0;left:0;overflow:visible;position:absolute!important;top:0;z-index:600000!important;background:transparent !important;}
+.fusion-js-subs {display:none;margin:0;overflow:hidden;padding:0;position:absolute;}
